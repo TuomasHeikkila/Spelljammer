@@ -1,0 +1,15 @@
+What is coming:
+    - Forms of Government (✅) - added on 5/25/2017
+    - Leader Types
+    - Invading Forces
+    - Treasure
+    - Quests
+    - Random Encounters
+    - Non-NPCs
+    - Villains
+    - Dungeons (✅) - added Planar Gate, Death Traps, Maze, Mine, and Purpose on 5/26/2017
+    - Extinction or Depletion
+    - Cataclysmic Disasters
+    - Dungeon Goals
+    - Astral Planar Pools
+    - World Shaking Events
